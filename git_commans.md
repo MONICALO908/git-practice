@@ -10,7 +10,7 @@ git checkout: me permite moverme a una version anterior de un commit
 
 git log:me muestra el historial de cambios
 
-git branch:para crear ramas pararlelas
+git branch:para crear ramas paralelas
 
 git add:agregar archivos
 
